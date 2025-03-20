@@ -1,52 +1,52 @@
 [
     {
-        "filename": "file61.jpg",
-        "pos_caption": "A white truck travels on a highway.",
-        "neg_caption": "A fallen tree blocks a road."
+        "filename": "file101.jpg",
+        "pos_caption": "A car stopped in the middle of the road at night.",
+        "neg_caption": "Man walking near parked cars near a brick building."
     },
     {
-        "filename": "file62.jpg",
-        "pos_caption": "Cars and trucks are driving on a highway.",
-        "neg_caption": "A vehicle on a road with signs indicating speed limits and no U-turn are visible."
+        "filename": "file102.jpg",
+        "pos_caption": "Pedestrians walking along a bridge during daytime.",
+        "neg_caption": "A quiet sidewalk beside a mostly empty road, with parked cars and bicycles."
     },
     {
-        "filename": "file63.jpg",
-        "pos_caption": "An auto-rickshaw on a crowded road.",
-        "neg_caption": "Cars and trucks are driving on a highway."
+        "filename": "file103.jpg",
+        "pos_caption": "Pedestrians walking on a bridge walkway near water",
+        "neg_caption": "Pedestrians walking along a bridge during daytime."
     },
     {
-        "filename": "file64.jpg",
-        "pos_caption": "Large number of pedestrians on a road.",
-        "neg_caption": "Cars and trucks are driving on a highway."
+        "filename": "file104.jpg",
+        "pos_caption": "Man walking on the sidewalk past a Starbucks storefront.",
+        "neg_caption": "Group of pedestrians crossing a side street next to a brick building."
     },
     {
-        "filename": "file65.jpg",
-        "pos_caption": "A pedestrian crossing a road with a traffic sign on the side.",
-        "neg_caption": "A fallen tree blocks a road."
+        "filename": "file105.jpg",
+        "pos_caption": "Group of pedestrians crossing a side street next to a brick building.",
+        "neg_caption": "A quiet sidewalk beside a mostly empty road, with parked cars and bicycles."
     },
     {
-        "filename": "file66.jpg",
-        "pos_caption": "A vehicle on a road with signs indicating speed limits and no U-turn are visible.",
-        "neg_caption": "Large number of pedestrians on a road."
+        "filename": "file106.jpg",
+        "pos_caption": "Car parked on the sidewalk, blocking pedestrian pathway.",
+        "neg_caption": "A mostly empty urban road with a few cars and pedestrians."
     },
     {
-        "filename": "file67.jpg",
-        "pos_caption": "Debris on the road.",
-        "neg_caption": "An auto-rickshaw on a crowded road."
+        "filename": "file107.jpg",
+        "pos_caption": "Man walking near parked cars near a brick building.",
+        "neg_caption": "A mostly empty urban road with a few cars and pedestrians."
     },
     {
-        "filename": "file68.jpg",
-        "pos_caption": "A damaged road surface with large cracks and missing asphalt.",
-        "neg_caption": "A fallen tree blocks a road."
+        "filename": "file108.jpg",
+        "pos_caption": "Red SUV parked partially on the sidewalk next to a building entrance.",
+        "neg_caption": "Pedestrians walking on a bridge walkway near water"
     },
     {
-        "filename": "file69.jpg",
-        "pos_caption": "A flooded road with a car and truck caught in the water.",
-        "neg_caption": "Large number of pedestrians on a road."
+        "filename": "file109.jpg",
+        "pos_caption": "A mostly empty urban road with a few cars and pedestrians.",
+        "neg_caption": "Group of pedestrians crossing a side street next to a brick building."
     },
     {
-        "filename": "file70.jpg",
-        "pos_caption": "A fallen tree blocks a road.",
-        "neg_caption": "Large number of pedestrians on a road."
+        "filename": "file110.jpg",
+        "pos_caption": "A quiet sidewalk beside a mostly empty road, with parked cars and bicycles.",
+        "neg_caption": "Man walking on the sidewalk past a Starbucks storefront."
     }
 ]
