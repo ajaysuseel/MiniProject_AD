@@ -46,3 +46,5 @@ MiniProject_AD/
 │── requirements.txt               # 📦 Dependencies list for setup  
 │── .gitignore                     # 🚫 Ignore unnecessary files in Git  
 
+
+Model card:https://huggingface.co/Salesforce/blip-image-captioning-base
