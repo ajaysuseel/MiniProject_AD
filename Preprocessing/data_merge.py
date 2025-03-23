@@ -14,8 +14,9 @@ CAPTIONS_FILE = os.path.join(DATA_FOLDER, "captions.json")
 # Create necessary folders
 os.makedirs(IMAGE_DEST, exist_ok=True)
 
-# Initialize combined captions list
+# Initialize combined captions list and image counter
 combined_captions = []
+total_images_added = 0
 
 # Process each subfolder
 for folder in SUBFOLDERS:
@@ -32,6 +33,7 @@ for folder in SUBFOLDERS:
                 img_path = os.path.join(images_folder, img_file)
                 if img_file.lower().endswith((".png", ".jpg", ".jpeg")):
                     shutil.copy(img_path, os.path.join(IMAGE_DEST, img_file))
+                    total_images_added += 1
     else:
         print(f"❌ Missing images folder: {images_folder}")
 
@@ -53,5 +55,5 @@ for folder in SUBFOLDERS:
 with open(CAPTIONS_FILE, "w") as f:
     json.dump(combined_captions, f, indent=4)
 
-print(f"✅ Images combined in {IMAGE_DEST}")
+print(f"✅ Total images added to {IMAGE_DEST}: {total_images_added}")
 print(f"✅ Captions merged into {CAPTIONS_FILE} ({len(combined_captions)} entries)")
