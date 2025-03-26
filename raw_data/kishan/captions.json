@@ -1,45 +1,4 @@
 [
-    {
-<<<<<<< Updated upstream
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-    },
-    {
-        "filename": ,
-        "description": 
-=======
         "filename": "file401.jpg",
         "description": "Yellow taxi turning at an intersection at night with red traffic lights."
     },
@@ -254,6 +213,5 @@
     {
         "filename":"file454.jpg" ,
         "description": "Motorcyclist riding through a crosswalk at night in a well-lit city intersection."
->>>>>>> Stashed changes
     }
 ]
