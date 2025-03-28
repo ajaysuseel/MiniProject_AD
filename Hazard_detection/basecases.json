@@ -11,7 +11,8 @@
       "Vehicles stopping abruptly, causing a chain reaction.",
       "Heavy snowfall or ice causing loss of control and reduced visibility.",
       "A car braking suddenly at an intersection due to an unexpected obstacle.",
-      "Erratic behavior from surrounding vehicles in congested traffic."
+      "Erratic behavior from surrounding vehicles in congested traffic.",
+      "An animal crossing a road"
     ],
     "no_hazard_cases": [
       "Traffic is flowing smoothly without obstructions.",

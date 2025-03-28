@@ -4,7 +4,7 @@
       "collision",
       "obstacle",
       "block",
-      "pedestrian",
+      "group of pedestrians",
       "crossing",
       "stopped",
       "debris",
@@ -22,7 +22,8 @@
       "warning",
       "hazardous",
       "erratic",
-      "uncontrolled"
+      "uncontrolled",
+      "animal"
     ]
   }
   
