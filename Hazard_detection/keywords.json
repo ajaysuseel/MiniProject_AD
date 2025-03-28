@@ -1,6 +1,28 @@
 {
     "hazard_keywords": [
-        "crash", "collision", "obstacle", "block", "pedestrian", 
-        "crossing", "stopped", "debris", "accident"
+      "crash",
+      "collision",
+      "obstacle",
+      "block",
+      "pedestrian",
+      "crossing",
+      "stopped",
+      "debris",
+      "accident",
+      "swerve",
+      "sudden brake",
+      "loss of control",
+      "skid",
+      "ice",
+      "roadblock",
+      "fallen tree",
+      "damaged",
+      "flooded",
+      "construction",
+      "warning",
+      "hazardous",
+      "erratic",
+      "uncontrolled"
     ]
-}
+  }
+  

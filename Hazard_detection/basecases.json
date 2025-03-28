@@ -1,16 +1,27 @@
 {
     "hazard_cases": [
-        "An object or obstacle is blocking the path.",
-        "A person or vehicle is moving unpredictably in a restricted area.",
-        "A stationary vehicle is obstructing a main route.",
-        "Environmental conditions are reducing visibility or traction.",
-        "An animal or pedestrian is crossing in an unsafe manner."
+      "An object or obstacle is blocking the path.",
+      "A vehicle suddenly swerves into another lane without warning.",
+      "Debris scattered across the highway following an accident.",
+      "A fallen tree completely blocks the road.",
+      "A damaged road surface with large cracks or missing asphalt reduces traction.",
+      "Flooded road conditions trapping vehicles in water.",
+      "Construction zones with unexpected cones and barriers in the driving path.",
+      "Pedestrians or cyclists unexpectedly entering the roadway.",
+      "Vehicles stopping abruptly, causing a chain reaction.",
+      "Heavy snowfall or ice causing loss of control and reduced visibility.",
+      "A car braking suddenly at an intersection due to an unexpected obstacle.",
+      "Erratic behavior from surrounding vehicles in congested traffic."
     ],
     "no_hazard_cases": [
-        "Traffic is moving smoothly without obstructions.",
-        "Pedestrians and vehicles are following designated paths.",
-        "Stationary objects are in designated safe zones.",
-        "Road and environmental conditions are clear and stable.",
-        "All entities are behaving predictably within expected boundaries."
+      "Traffic is flowing smoothly without obstructions.",
+      "Vehicles maintain safe distances and follow traffic signals.",
+      "Pedestrians cross only at designated crosswalks with proper signals.",
+      "The road is clear, dry, and well-maintained under good weather conditions.",
+      "Vehicles move predictably along clearly marked lanes.",
+      "Orderly traffic on highways with no unexpected obstacles.",
+      "Safe driving behavior with smooth acceleration and deceleration.",
+      "Properly managed construction zones with clear signage and detours."
     ]
-}
+  }
+  
